@@ -59,3 +59,5 @@ Kullanılan Teknolojiler
 - **Matplotlib & Seaborn**: Görselleştirme ve veri analizi.
 
 - **Sklearn**: Model değerlendirme metrikleri (confusion matrix, accuracy, classification report).
+
+**Bu proje Ahmet Koç ile birlikte yapılmıştır**
