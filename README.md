@@ -2,7 +2,7 @@
 
 Bu proje, Akbank Deep Learning Bootcamp kapsamında geliştirilmiştir. Projenin amacı, farklı balık türlerini içeren bir görüntü veri seti kullanarak balık sınıflandırması yapmak ve bu süreçte yapay sinir ağı (ANN) modeli kullanarak yüksek doğrulukta bir sınıflandırıcı model geliştirmektir.
 
-- 🐟 Keggle projeme [buradan]([https://www.kaggle.com/code/canak0/fish-classification](https://www.kaggle.com/code/melikenurotak/fishclassification-with-ann-globalai))
+- 🐟 Keggle projeme [buradan](https://www.kaggle.com/code/canak0/fish-classification](https://www.kaggle.com/code/melikenurotak/fishclassification-with-ann-globalai))
  ulaşabilirsiniz.
 
 - Bu projede gerçekleştirdiğimiz adımlar şu şekildedir:
